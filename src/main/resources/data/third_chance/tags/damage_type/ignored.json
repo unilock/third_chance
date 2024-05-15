@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:is_fall",
+    "minecraft:cramming",
+    "minecraft:generic_kill",
+    "minecraft:in_wall",
+    "minecraft:out_of_world",
+    "minecraft:outside_border"
+  ]
+}

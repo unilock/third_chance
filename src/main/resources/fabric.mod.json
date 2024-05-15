@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "third_chance",
+	"version": "${version}",
+	"name": "Third Chance",
+	"description": "Basic one-hit protection.",
+	"authors": [
+		"unilock"
+	],
+	"contact": {
+		"sources": "https://github.com/unilock/third_chance",
+		"issues": "https://github.com/unilock/third_chance/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/third_chance/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"cc.unilock.third_chance.ThirdChance"
+		]
+	},
+	"depends": {
+		"fabricloader": "*",
+		"minecraft": ">=1.20.1",
+		"fabric-api": "*"
+	}
+}
